@@ -1,0 +1,7 @@
+snake
+snake.exe
+*.o
+*.obj
+.vscode/
+.idea/
+.DS_Store
